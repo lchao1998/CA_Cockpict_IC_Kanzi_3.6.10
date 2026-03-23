@@ -1,0 +1,105 @@
+﻿Files:
+PropertyTypeLibrary/CubemapColor
+PropertyTypeLibrary/offset
+PropertyTypeLibrary/smoothing
+PropertyTypeLibrary/Texture2
+PropertyTypeLibrary/TextureCube
+PropertyTypeLibrary/Warning.Node_Popup.RenderTransformation
+PropertyTypeLibrary/Warning.RootNode.RenderTransformation
+PropertyTypeLibrary/Warning.ShowWarningID
+PropertyTypeLibrary/Warning.WarningID
+PropertyTypeLibrary/TAG_PROPERTY_TYPE_Transparent
+Screens/Screen/RootPage/RootNode
+Screens/Screen/<ResourceDictionaryInNode>
+Screens/Screen/RootPage
+Screens/Screen
+Material Types/VertexPhong
+Material Types/VertexPhongCube
+Material Types/VertexPhongMorph
+Material Types/VertexPhongSkinned
+Material Types/VertexPhongTextured
+Material Types/VertexPhongTexturedCube
+Material Types/VertexPhongTexturedMorph
+Material Types/VertexPhongTexturedSkinned
+Material Types/ColorTexture
+Material Types/DefaultBlit
+Material Types/FontDefault
+Material Types/MaskTexture
+Material Types/SweepTextures
+Material Types/Textured
+Materials/VertexPhongMaterial
+Materials/VertexPhongCubeMaterial
+Materials/VertexPhongMorphMaterial
+Materials/VertexPhongSkinnedMaterial
+Materials/VertexPhongTexturedMaterial
+Materials/VertexPhongTexturedCubeMaterial
+Materials/VertexPhongTexturedMorphMaterial
+Materials/VertexPhongTexturedSkinnedMaterial
+Materials/ColorTextureMaterial
+Materials/DefaultBlitMaterial
+Materials/FontDefaultMaterial
+Materials/MaskTextureMaterial
+Materials/SweepTexturesMaterial
+Materials/TexturedMaterial
+Brushes/DefaultBackground
+Brushes/Color Brush Red
+Brushes/Backgrund Brush
+Brushes/Color Brush null
+Brushes/Color Brush black
+Prefabs/Node_Popup/Node_Popup/Stack Layout 2D/icon
+Prefabs/Node_Popup/Node_Popup/Stack Layout 2D/content
+Prefabs/Node_Popup/Node_Popup/Image
+Prefabs/Node_Popup/Node_Popup/Stack Layout 2D
+Prefabs/Node_Popup/Node_Popup
+Prefabs/RootNode/RootNode/Node_Popup
+Prefabs/RootNode/RootNode
+Prefabs/Node_Popup
+Prefabs/RootNode
+Animation Data/Animation_1
+Themes/Theme Warning/DefaultValues
+Themes/Theme Warning/Complex
+Themes/Theme Warning/simplicity
+Themes/Theme Warning
+Page Transitions/Default Transitions
+Resource Files/Images/cubemaps/DefaultCubeMap.dds posX.png
+Resource Files/Images/cubemaps/DefaultCubeMap.dds negX.png
+Resource Files/Images/cubemaps/DefaultCubeMap.dds posY.png
+Resource Files/Images/cubemaps/DefaultCubeMap.dds negY.png
+Resource Files/Images/cubemaps/DefaultCubeMap.dds posZ.png
+Resource Files/Images/cubemaps/DefaultCubeMap.dds negZ.png
+Resource Files/Images/DefaultBackground.png
+Resource Files/Images/DefaultTextureImage.png
+Resource Files/Images/DefaultCubeMap.dds
+Resource Files/Images/airbag_failure.png
+Resource Files/Images/backgrand.png
+Resource Files/Images/copilot_seat_warning.png
+Resource Files/Images/driver_seat_warning.png
+Resource Files/Images/engine_failure.png
+Resource Files/Images/obstacle.png
+Resource Files/Images/pop_bg.png
+Resource Files/Images/安全气囊故障.png
+Resource Files/Images/发动机故障.png
+Resource Files/Images/副驾驶安全带未系.png
+Resource Files/Images/障碍物.png
+Resource Files/Images/主驾驶安全带未系.png
+Resource Files/Fonts/SourceHanSansCN-Normal.otf
+Textures/DefaultBackground
+Textures/Default Texture
+Textures/airbag_failure
+Textures/backgrand
+Textures/copilot_seat_warning
+Textures/DefaultCubeMap
+Textures/driver_seat_warning
+Textures/engine_failure
+Textures/obstacle
+Textures/pop_bg
+Textures/安全气囊故障
+Textures/发动机故障
+Textures/副驾驶安全带未系
+Textures/障碍物
+Textures/主驾驶安全带未系
+Styles/Text Block 2D Style
+Styles/Complex
+Styles/Simple
+State Managers/Node_Popup State Manager
+/warning

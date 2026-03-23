@@ -1,0 +1,510 @@
+﻿Files:
+PropertyTypeLibrary/BlendOffset
+PropertyTypeLibrary/CubemapColor
+PropertyTypeLibrary/Gauge.Speed
+PropertyTypeLibrary/Gauge.SpeedDigitStatus
+PropertyTypeLibrary/Gauge.SpeedNumber
+PropertyTypeLibrary/Gauge.TachDigitStatus
+PropertyTypeLibrary/Gauge.TachNumber
+PropertyTypeLibrary/Gauge.TachSpeed
+PropertyTypeLibrary/grow2
+PropertyTypeLibrary/Guage.SpecialEffects
+PropertyTypeLibrary/offset
+PropertyTypeLibrary/smoothing
+PropertyTypeLibrary/Texture2
+PropertyTypeLibrary/TextureBg
+PropertyTypeLibrary/TextureCube
+PropertyTypeLibrary/TextureFg
+PropertyTypeLibrary/value
+PropertyTypeLibrary/TAG_PROPERTY_TYPE_Transparent
+Animation Clips/SpeedMeter Shake
+Animation Clips/Take 001
+Screens/Screen/RootPage/Prefab View 2D
+Screens/Screen/<ResourceDictionaryInNode>
+Screens/Screen/RootPage
+Screens/Screen
+Material Types/VertexPhong
+Material Types/VertexPhongCube
+Material Types/VertexPhongMorph
+Material Types/VertexPhongSkinned
+Material Types/VertexPhongTextured
+Material Types/VertexPhongTexturedCube
+Material Types/VertexPhongTexturedMorph
+Material Types/VertexPhongTexturedSkinned
+Material Types/ColorTexture
+Material Types/DefaultBlit
+Material Types/FontDefault
+Material Types/MaskTexture
+Material Types/SweepTextures
+Material Types/Textured
+Material Types/TexturedMirror
+Material Types/glow2
+Material Types/VertexPhongTextured_Speed
+Material Types/InstrumentSpeed
+Materials/VertexPhongMaterial
+Materials/VertexPhongCubeMaterial
+Materials/VertexPhongMorphMaterial
+Materials/VertexPhongSkinnedMaterial
+Materials/VertexPhongTexturedMaterial
+Materials/VertexPhongTexturedCubeMaterial
+Materials/VertexPhongTexturedMorphMaterial
+Materials/VertexPhongTexturedSkinnedMaterial
+Materials/ColorTextureMaterial
+Materials/DefaultBlitMaterial
+Materials/FontDefaultMaterial
+Materials/MaskTextureMaterial
+Materials/SweepTexturesMaterial
+Materials/TexturedMaterial
+Materials/Material 27
+Materials/Material 26sf
+Materials/Material 27_1
+Materials/Material 26
+Materials/TexturedMirrorMaterial
+Materials/glow2Material
+Materials/VertexPhongTextured_SpeedMaterial
+Materials/Shadow
+Materials/CarBlack
+Materials/CarRim
+Materials/CarTire
+Materials/CarMainBody
+Materials/CarTaillight
+Materials/CarInterior
+Materials/CarLicense
+Materials/CarWindow
+Materials/CarHeadlight
+Materials/CarChrome
+Materials/InstrumentSpeedMaterial
+Materials/MainBody_1
+Materials/Interior_1
+Materials/Windows_1
+Materials/RoofWindow_1
+Materials/Rim
+Materials/Tire
+Materials/Headlights
+Materials/HeadlightGlass
+Materials/Black
+Materials/Chrome
+Materials/TailLights
+Materials/Floor_1
+Brushes/DefaultBackground
+Brushes/Color Brush Black
+Brushes/Material Brush
+Brushes/Material Brush_1
+Brushes/Color Brush_special effects
+Brushes/Color Brush_null
+Mesh Data/SpeedMeter_Bar
+Mesh Data/SpeedMeter_Bg
+Mesh Data/TachSpeedMeter_Bar
+Mesh Data/TachSpeedMeter_Bg
+Mesh Data/Shadowplane
+Mesh Data/Car_Bottom
+Mesh Data/Car_Wheels
+Mesh Data/Car_Grill
+Mesh Data/CarBadge
+Mesh Data/Car_Taillights
+Mesh Data/Car_Interior
+Mesh Data/Car_Windows
+Mesh Data/Car_HeadlightsGlass
+Mesh Data/Car_Bumper
+Mesh Data/CarBody
+Mesh Data/CarFrontLampBase
+Mesh Data/MainBody
+Mesh Data/Interior
+Mesh Data/Windows
+Mesh Data/RoofWindow
+Mesh Data/UnderBody
+Mesh Data/RearSpoilerDown
+Mesh Data/RearSpoilerUP
+Mesh Data/Wheels
+Mesh Data/Headlight
+Mesh Data/HeadlightCover
+Mesh Data/FrontGrill
+Mesh Data/ChromeBumper
+Mesh Data/Badges
+Mesh Data/Tailights
+Mesh Data/Floor
+Prefabs/Complex Gauge/Complex Gauge/Viewport 2D_SpeedMeter/left_line
+Prefabs/Complex Gauge/Complex Gauge/Viewport 2D_SpeedMeter/SpeedMetr
+Prefabs/Complex Gauge/Complex Gauge/Viewport 2D_SpeedMeter/SpeedNumNode
+Prefabs/Complex Gauge/Complex Gauge/Viewport 2D_TachMeter/right_line
+Prefabs/Complex Gauge/Complex Gauge/Viewport 2D_TachMeter/TachMeter
+Prefabs/Complex Gauge/Complex Gauge/Viewport 2D_TachMeter/TachNumNode
+Prefabs/Complex Gauge/Complex Gauge/Viewport 2D_SpeedMeter
+Prefabs/Complex Gauge/Complex Gauge/Viewport 2D_TachMeter
+Prefabs/Complex Gauge/Complex Gauge/Special effects
+Prefabs/Complex Gauge/Complex Gauge
+Prefabs/SpeedMeter/SpeedMeter/RootNode/SpeedMeter/SpeedMeter_Bg_1
+Prefabs/SpeedMeter/SpeedMeter/RootNode/SpeedMeter/SpeedMeter_Bar
+Prefabs/SpeedMeter/SpeedMeter/RootNode/SpeedMeter/SpeedMeter_Bg
+Prefabs/SpeedMeter/SpeedMeter/RootNode/SpeedMeter
+Prefabs/SpeedMeter/SpeedMeter/RootNode
+Prefabs/SpeedMeter/SpeedMeter/Camera
+Prefabs/SpeedMeter/SpeedMeter
+Prefabs/TachMeter/TachMeter/RootNode/TachSpeedMeter/TachSpeedMeter_Bg_1
+Prefabs/TachMeter/TachMeter/RootNode/TachSpeedMeter/TachSpeedMeter_Bar
+Prefabs/TachMeter/TachMeter/RootNode/TachSpeedMeter/TachSpeedMeter_Bg
+Prefabs/TachMeter/TachMeter/RootNode/TachSpeedMeter
+Prefabs/TachMeter/TachMeter/RootNode
+Prefabs/TachMeter/TachMeter/Camera
+Prefabs/TachMeter/TachMeter
+Prefabs/SpeedNumNode/SpeedNumNode/SpeedValue/Stack Layout 2D/Image_SpeedNum_Hundreds
+Prefabs/SpeedNumNode/SpeedNumNode/SpeedValue/Stack Layout 2D/Image_SpeedNum_Tens
+Prefabs/SpeedNumNode/SpeedNumNode/SpeedValue/Stack Layout 2D/Image_SpeedNum_Unit
+Prefabs/SpeedNumNode/SpeedNumNode/SpeedValue/Stack Layout 2D
+Prefabs/SpeedNumNode/SpeedNumNode/SpeedValue
+Prefabs/SpeedNumNode/SpeedNumNode/SpeedMirror
+Prefabs/SpeedNumNode/SpeedNumNode/km_h
+Prefabs/SpeedNumNode/SpeedNumNode
+Prefabs/Image_Dot/Image_Dot
+Prefabs/Image_SpeedNum/Image_SpeedNum
+Prefabs/Image_TachNum/Image_TachNum
+Prefabs/TachNumNode/TachNumNode/TachValue/Stack Layout 2D/Image_TachNum_Unit_Place
+Prefabs/TachNumNode/TachNumNode/TachValue/Stack Layout 2D/Image_Dot
+Prefabs/TachNumNode/TachNumNode/TachValue/Stack Layout 2D/Image_TachNum_Decimal_Place
+Prefabs/TachNumNode/TachNumNode/TachValue/Stack Layout 2D
+Prefabs/TachNumNode/TachNumNode/TachValue
+Prefabs/TachNumNode/TachNumNode/TachMirror
+Prefabs/TachNumNode/TachNumNode/rpm
+Prefabs/TachNumNode/TachNumNode
+Prefabs/BB/BB/RootNode/Car/Car_Bottom
+Prefabs/BB/BB/RootNode/Car/Car_Wheels
+Prefabs/BB/BB/RootNode/Car/Car_Grill
+Prefabs/BB/BB/RootNode/Car/CarBadge
+Prefabs/BB/BB/RootNode/Car/Car_Taillights
+Prefabs/BB/BB/RootNode/Car/Car_Interior
+Prefabs/BB/BB/RootNode/Car/Car_Windows
+Prefabs/BB/BB/RootNode/Car/Car_HeadlightsGlass
+Prefabs/BB/BB/RootNode/Car/Car_Bumper
+Prefabs/BB/BB/RootNode/Car/CarBody
+Prefabs/BB/BB/RootNode/Shadowplane
+Prefabs/BB/BB/RootNode/Car
+Prefabs/BB/BB/RootNode/Point1
+Prefabs/BB/BB/RootNode/Point
+Prefabs/BB/BB/RootNode/CarFrontLampBase
+Prefabs/BB/BB/RootNode
+Prefabs/BB/BB/Camera
+Prefabs/BB/BB
+Prefabs/Prefab View 2D/Prefab View 2D
+Prefabs/Simplicity Gauge/Simplicity Gauge/Left Dial
+Prefabs/Simplicity Gauge/Simplicity Gauge/Right Dial
+Prefabs/Simplicity Gauge/Simplicity Gauge
+Prefabs/Left Dial/Left Dial/Viewport 2D/Scene/Camera
+Prefabs/Left Dial/Left Dial/Viewport 2D/Scene/Directional Light
+Prefabs/Left Dial/Left Dial/Viewport 2D/Scene/Model
+Prefabs/Left Dial/Left Dial/Viewport 2D/Scene
+Prefabs/Left Dial/Left Dial/Image_2
+Prefabs/Left Dial/Left Dial/Image_1
+Prefabs/Left Dial/Left Dial/Image
+Prefabs/Left Dial/Left Dial/Image_3
+Prefabs/Left Dial/Left Dial/coolant
+Prefabs/Left Dial/Left Dial/Left Cursor
+Prefabs/Left Dial/Left Dial/Viewport 2D
+Prefabs/Left Dial/Left Dial
+Prefabs/Right Dial/Right Dial/Viewport 2D/Scene/Camera
+Prefabs/Right Dial/Right Dial/Viewport 2D/Scene/Directional Light
+Prefabs/Right Dial/Right Dial/Viewport 2D/Scene/Model_1
+Prefabs/Right Dial/Right Dial/Viewport 2D/Scene
+Prefabs/Right Dial/Right Dial/Image_1
+Prefabs/Right Dial/Right Dial/Image
+Prefabs/Right Dial/Right Dial/Image_2
+Prefabs/Right Dial/Right Dial/Image_3
+Prefabs/Right Dial/Right Dial/Right Cursor
+Prefabs/Right Dial/Right Dial/Viewport 2D
+Prefabs/Right Dial/Right Dial
+Prefabs/Left Cursor/Left Cursor/Image_1/Image
+Prefabs/Left Cursor/Left Cursor/Image_1
+Prefabs/Left Cursor/Left Cursor
+Prefabs/Right Cursor/Right Cursor/Image_1/Image
+Prefabs/Right Cursor/Right Cursor/Image_1
+Prefabs/Right Cursor/Right Cursor
+Prefabs/SpeedMeter_Special/SpeedMeter_Special
+Prefabs/TachSpeedMeter_Special/TachSpeedMeter_Special
+Prefabs/Special effects/Special effects/<ResourceDictionaryInNode>
+Prefabs/Special effects/Special effects/Special effects
+Prefabs/Special effects/Special effects
+Prefabs/square/square/RootNode/Scene_Root/Car/MainBody
+Prefabs/square/square/RootNode/Scene_Root/Car/Interior
+Prefabs/square/square/RootNode/Scene_Root/Car/Windows
+Prefabs/square/square/RootNode/Scene_Root/Car/RoofWindow
+Prefabs/square/square/RootNode/Scene_Root/Car/UnderBody
+Prefabs/square/square/RootNode/Scene_Root/Car/RearSpoilerDown
+Prefabs/square/square/RootNode/Scene_Root/Car/RearSpoilerUP
+Prefabs/square/square/RootNode/Scene_Root/Car/Wheels
+Prefabs/square/square/RootNode/Scene_Root/Car/Headlight
+Prefabs/square/square/RootNode/Scene_Root/Car/HeadlightCover
+Prefabs/square/square/RootNode/Scene_Root/Car/FrontGrill
+Prefabs/square/square/RootNode/Scene_Root/Car/ChromeBumper
+Prefabs/square/square/RootNode/Scene_Root/Car/Badges
+Prefabs/square/square/RootNode/Scene_Root/Car/Tailights
+Prefabs/square/square/RootNode/Scene_Root/Camera_Root/Camera
+Prefabs/square/square/RootNode/Scene_Root/Camera_Root/Camera_Interest
+Prefabs/square/square/RootNode/Scene_Root/PointLight
+Prefabs/square/square/RootNode/Scene_Root/PointLigh1
+Prefabs/square/square/RootNode/Scene_Root/Car
+Prefabs/square/square/RootNode/Scene_Root/Camera_Root
+Prefabs/square/square/RootNode/Scene_Root/Floor
+Prefabs/square/square/RootNode/Scene_Root
+Prefabs/square/square/RootNode
+Prefabs/square/square
+Prefabs/Complex Gauge
+Prefabs/SpeedMeter
+Prefabs/TachMeter
+Prefabs/SpeedNumNode
+Prefabs/Image_Dot
+Prefabs/Image_SpeedNum
+Prefabs/Image_TachNum
+Prefabs/TachNumNode
+Prefabs/BB
+Prefabs/Prefab View 2D
+Prefabs/Simplicity Gauge
+Prefabs/Left Dial
+Prefabs/Right Dial
+Prefabs/Left Cursor
+Prefabs/Right Cursor
+Prefabs/SpeedMeter_Special
+Prefabs/TachSpeedMeter_Special
+Prefabs/Special effects
+Prefabs/square
+Animation Data/Node3D.RenderTransformation - ROTATION_X
+Animation Data/Node3D.RenderTransformation - ROTATION_Y
+Animation Data/VehicleSpeedMeter
+Animation Data/TachSpeedMeter
+Animation Data/Node3D.RenderTransformation - ROTATION_Z
+Animation Data/SpeedMeterBack(Complex)
+Animation Data/TachSpeedMeterBack(Simple)
+Animation Data/TachSpeedMeterBack(Complex)
+Animation Data/SpeedMeterBack(Simple)
+Themes/Theme_Gauge/DefaultValues
+Themes/Theme_Gauge/Complex
+Themes/Theme_Gauge/Simplicity
+Themes/Theme_Gauge
+Page Transitions/Default Transitions
+Resource Files/Images/cubemaps/mipmaps/DefaultCubeMap.dds negX_128x128.png
+Resource Files/Images/cubemaps/mipmaps/DefaultCubeMap.dds negX_16x16.png
+Resource Files/Images/cubemaps/mipmaps/DefaultCubeMap.dds negX_1x1.png
+Resource Files/Images/cubemaps/mipmaps/DefaultCubeMap.dds negX_2x2.png
+Resource Files/Images/cubemaps/mipmaps/DefaultCubeMap.dds negX_32x32.png
+Resource Files/Images/cubemaps/mipmaps/DefaultCubeMap.dds negX_4x4.png
+Resource Files/Images/cubemaps/mipmaps/DefaultCubeMap.dds negX_64x64.png
+Resource Files/Images/cubemaps/mipmaps/DefaultCubeMap.dds negX_8x8.png
+Resource Files/Images/cubemaps/mipmaps/DefaultCubeMap.dds negY_128x128.png
+Resource Files/Images/cubemaps/mipmaps/DefaultCubeMap.dds negY_16x16.png
+Resource Files/Images/cubemaps/mipmaps/DefaultCubeMap.dds negY_1x1.png
+Resource Files/Images/cubemaps/mipmaps/DefaultCubeMap.dds negY_2x2.png
+Resource Files/Images/cubemaps/mipmaps/DefaultCubeMap.dds negY_32x32.png
+Resource Files/Images/cubemaps/mipmaps/DefaultCubeMap.dds negY_4x4.png
+Resource Files/Images/cubemaps/mipmaps/DefaultCubeMap.dds negY_64x64.png
+Resource Files/Images/cubemaps/mipmaps/DefaultCubeMap.dds negY_8x8.png
+Resource Files/Images/cubemaps/mipmaps/DefaultCubeMap.dds negZ_128x128.png
+Resource Files/Images/cubemaps/mipmaps/DefaultCubeMap.dds negZ_16x16.png
+Resource Files/Images/cubemaps/mipmaps/DefaultCubeMap.dds negZ_1x1.png
+Resource Files/Images/cubemaps/mipmaps/DefaultCubeMap.dds negZ_2x2.png
+Resource Files/Images/cubemaps/mipmaps/DefaultCubeMap.dds negZ_32x32.png
+Resource Files/Images/cubemaps/mipmaps/DefaultCubeMap.dds negZ_4x4.png
+Resource Files/Images/cubemaps/mipmaps/DefaultCubeMap.dds negZ_64x64.png
+Resource Files/Images/cubemaps/mipmaps/DefaultCubeMap.dds negZ_8x8.png
+Resource Files/Images/cubemaps/mipmaps/DefaultCubeMap.dds posX_128x128.png
+Resource Files/Images/cubemaps/mipmaps/DefaultCubeMap.dds posX_16x16.png
+Resource Files/Images/cubemaps/mipmaps/DefaultCubeMap.dds posX_1x1.png
+Resource Files/Images/cubemaps/mipmaps/DefaultCubeMap.dds posX_2x2.png
+Resource Files/Images/cubemaps/mipmaps/DefaultCubeMap.dds posX_32x32.png
+Resource Files/Images/cubemaps/mipmaps/DefaultCubeMap.dds posX_4x4.png
+Resource Files/Images/cubemaps/mipmaps/DefaultCubeMap.dds posX_64x64.png
+Resource Files/Images/cubemaps/mipmaps/DefaultCubeMap.dds posX_8x8.png
+Resource Files/Images/cubemaps/mipmaps/DefaultCubeMap.dds posY_128x128.png
+Resource Files/Images/cubemaps/mipmaps/DefaultCubeMap.dds posY_16x16.png
+Resource Files/Images/cubemaps/mipmaps/DefaultCubeMap.dds posY_1x1.png
+Resource Files/Images/cubemaps/mipmaps/DefaultCubeMap.dds posY_2x2.png
+Resource Files/Images/cubemaps/mipmaps/DefaultCubeMap.dds posY_32x32.png
+Resource Files/Images/cubemaps/mipmaps/DefaultCubeMap.dds posY_4x4.png
+Resource Files/Images/cubemaps/mipmaps/DefaultCubeMap.dds posY_64x64.png
+Resource Files/Images/cubemaps/mipmaps/DefaultCubeMap.dds posY_8x8.png
+Resource Files/Images/cubemaps/mipmaps/DefaultCubeMap.dds posZ_128x128.png
+Resource Files/Images/cubemaps/mipmaps/DefaultCubeMap.dds posZ_16x16.png
+Resource Files/Images/cubemaps/mipmaps/DefaultCubeMap.dds posZ_1x1.png
+Resource Files/Images/cubemaps/mipmaps/DefaultCubeMap.dds posZ_2x2.png
+Resource Files/Images/cubemaps/mipmaps/DefaultCubeMap.dds posZ_32x32.png
+Resource Files/Images/cubemaps/mipmaps/DefaultCubeMap.dds posZ_4x4.png
+Resource Files/Images/cubemaps/mipmaps/DefaultCubeMap.dds posZ_64x64.png
+Resource Files/Images/cubemaps/mipmaps/DefaultCubeMap.dds posZ_8x8.png
+Resource Files/Images/cubemaps/DefaultCubeMap.dds posX.png
+Resource Files/Images/cubemaps/DefaultCubeMap.dds negX.png
+Resource Files/Images/cubemaps/DefaultCubeMap.dds posY.png
+Resource Files/Images/cubemaps/DefaultCubeMap.dds negY.png
+Resource Files/Images/cubemaps/DefaultCubeMap.dds posZ.png
+Resource Files/Images/cubemaps/DefaultCubeMap.dds negZ.png
+Resource Files/Images/mipmaps/360Car_Tire_1024x1024.png
+Resource Files/Images/mipmaps/360Car_Tire_128x128.png
+Resource Files/Images/mipmaps/360Car_Tire_16x16.png
+Resource Files/Images/mipmaps/360Car_Tire_1x1.png
+Resource Files/Images/mipmaps/360Car_Tire_256x256.png
+Resource Files/Images/mipmaps/360Car_Tire_2x2.png
+Resource Files/Images/mipmaps/360Car_Tire_32x32.png
+Resource Files/Images/mipmaps/360Car_Tire_4x4.png
+Resource Files/Images/mipmaps/360Car_Tire_512x512.png
+Resource Files/Images/mipmaps/360Car_Tire_64x64.png
+Resource Files/Images/mipmaps/360Car_Tire_8x8.png
+Resource Files/Images/mipmaps/360Car_Wheel_128x128.png
+Resource Files/Images/mipmaps/360Car_Wheel_16x16.png
+Resource Files/Images/mipmaps/360Car_Wheel_1x1.png
+Resource Files/Images/mipmaps/360Car_Wheel_256x256.png
+Resource Files/Images/mipmaps/360Car_Wheel_2x2.png
+Resource Files/Images/mipmaps/360Car_Wheel_32x32.png
+Resource Files/Images/mipmaps/360Car_Wheel_4x4.png
+Resource Files/Images/mipmaps/360Car_Wheel_512x512.png
+Resource Files/Images/mipmaps/360Car_Wheel_64x64.png
+Resource Files/Images/mipmaps/360Car_Wheel_8x8.png
+Resource Files/Images/mipmaps/CarBodyShape_1024x1024.png
+Resource Files/Images/mipmaps/CarBodyShape_128x128.png
+Resource Files/Images/mipmaps/CarBodyShape_16x16.png
+Resource Files/Images/mipmaps/CarBodyShape_1x1.png
+Resource Files/Images/mipmaps/CarBodyShape_256x256.png
+Resource Files/Images/mipmaps/CarBodyShape_2x2.png
+Resource Files/Images/mipmaps/CarBodyShape_32x32.png
+Resource Files/Images/mipmaps/CarBodyShape_4x4.png
+Resource Files/Images/mipmaps/CarBodyShape_512x512.png
+Resource Files/Images/mipmaps/CarBodyShape_64x64.png
+Resource Files/Images/mipmaps/CarBodyShape_8x8.png
+Resource Files/Images/mipmaps/CarShadowGroundA_128x256.png
+Resource Files/Images/mipmaps/CarShadowGroundA_16x32.png
+Resource Files/Images/mipmaps/CarShadowGroundA_1x1.png
+Resource Files/Images/mipmaps/CarShadowGroundA_1x2.png
+Resource Files/Images/mipmaps/CarShadowGroundA_256x512.png
+Resource Files/Images/mipmaps/CarShadowGroundA_2x4.png
+Resource Files/Images/mipmaps/CarShadowGroundA_32x64.png
+Resource Files/Images/mipmaps/CarShadowGroundA_4x8.png
+Resource Files/Images/mipmaps/CarShadowGroundA_512x1024.png
+Resource Files/Images/mipmaps/CarShadowGroundA_64x128.png
+Resource Files/Images/mipmaps/CarShadowGroundA_8x16.png
+Resource Files/Images/mipmaps/Speed_Bg_128x128.png
+Resource Files/Images/mipmaps/Speed_Bg_16x16.png
+Resource Files/Images/mipmaps/Speed_Bg_1x1.png
+Resource Files/Images/mipmaps/Speed_Bg_256x256.png
+Resource Files/Images/mipmaps/Speed_Bg_2x2.png
+Resource Files/Images/mipmaps/Speed_Bg_32x32.png
+Resource Files/Images/mipmaps/Speed_Bg_4x4.png
+Resource Files/Images/mipmaps/Speed_Bg_512x512.png
+Resource Files/Images/mipmaps/Speed_Bg_64x64.png
+Resource Files/Images/mipmaps/Speed_Bg_8x8.png
+Resource Files/Images/mipmaps/TachSpeed_Bg_128x128.png
+Resource Files/Images/mipmaps/TachSpeed_Bg_16x16.png
+Resource Files/Images/mipmaps/TachSpeed_Bg_1x1.png
+Resource Files/Images/mipmaps/TachSpeed_Bg_256x256.png
+Resource Files/Images/mipmaps/TachSpeed_Bg_2x2.png
+Resource Files/Images/mipmaps/TachSpeed_Bg_32x32.png
+Resource Files/Images/mipmaps/TachSpeed_Bg_4x4.png
+Resource Files/Images/mipmaps/TachSpeed_Bg_512x512.png
+Resource Files/Images/mipmaps/TachSpeed_Bg_64x64.png
+Resource Files/Images/mipmaps/TachSpeed_Bg_8x8.png
+Resource Files/Images/mipmaps/进度条_Bg_16x128.png
+Resource Files/Images/mipmaps/进度条_Bg_1x1.png
+Resource Files/Images/mipmaps/进度条_Bg_1x2.png
+Resource Files/Images/mipmaps/进度条_Bg_1x4.png
+Resource Files/Images/mipmaps/进度条_Bg_1x8.png
+Resource Files/Images/mipmaps/进度条_Bg_2x16.png
+Resource Files/Images/mipmaps/进度条_Bg_32x256.png
+Resource Files/Images/mipmaps/进度条_Bg_4x32.png
+Resource Files/Images/mipmaps/进度条_Bg_64x512.png
+Resource Files/Images/mipmaps/进度条_Bg_8x64.png
+Resource Files/Images/mipmaps/DefaultTextureImage_128x128.png
+Resource Files/Images/mipmaps/DefaultTextureImage_16x16.png
+Resource Files/Images/mipmaps/DefaultTextureImage_1x1.png
+Resource Files/Images/mipmaps/DefaultTextureImage_256x256.png
+Resource Files/Images/mipmaps/DefaultTextureImage_2x2.png
+Resource Files/Images/mipmaps/DefaultTextureImage_32x32.png
+Resource Files/Images/mipmaps/DefaultTextureImage_4x4.png
+Resource Files/Images/mipmaps/DefaultTextureImage_512x512.png
+Resource Files/Images/mipmaps/DefaultTextureImage_64x64.png
+Resource Files/Images/mipmaps/DefaultTextureImage_8x8.png
+Resource Files/Images/DefaultBackground.png
+Resource Files/Images/DefaultTextureImage.png
+Resource Files/Images/0.png
+Resource Files/Images/5.png
+Resource Files/Images/6.png
+Resource Files/Images/7.png
+Resource Files/Images/8.png
+Resource Files/Images/9.png
+Resource Files/Images/CarShadowGroundA.png
+Resource Files/Images/km_h.png
+Resource Files/Images/TachSpeed_Bg.png
+Resource Files/Images/点.png
+Resource Files/Images/进度条_Bg.png
+Resource Files/Images/进度条_Fg.png
+Resource Files/Images/cursor1.png
+Resource Files/Images/cursor2.png
+Resource Files/Images/3.png
+Resource Files/Images/4.png
+Resource Files/Images/360Car_Tire.png
+Resource Files/Images/360Car_Wheel.png
+Resource Files/Images/backgrand.png
+Resource Files/Images/CarBodyShape.png
+Resource Files/Images/left_line.png
+Resource Files/Images/right_line.png
+Resource Files/Images/rpm.png
+Resource Files/Images/Speed_Bg.png
+Resource Files/Images/left_dial.png
+Resource Files/Images/mask_overlay.png
+Resource Files/Images/background.png
+Resource Files/Images/left_dial_background.png
+Resource Files/Images/left_dial_overlay.png
+Resource Files/Images/right_dial.png
+Resource Files/Images/right_dial_background.png
+Resource Files/Images/right_dial_overlay.png
+Resource Files/Images/cursor.png
+Resource Files/Images/cursor-blue.png
+Resource Files/Images/1.png
+Resource Files/Images/2.png
+Resource Files/Images/coolant.png
+Resource Files/Images/dial_pattern.png
+Resource Files/Images/dial_fill_color_left.png
+Resource Files/Fonts/AGENCYR.TTF
+Resource Files/Fonts/arial.ttf
+Resource Files/Fonts/ARLRDBD.TTF
+Resource Files/Fonts/SourceHanSansCN-Normal.otf
+Textures/DefaultBackground
+Textures/Default Texture
+Textures/Default Cube Map Texture
+Textures/进度条_Bg
+Textures/Speed_Bg
+Textures/TachSpeed_Bg
+Textures/0
+Textures/cursor1
+Textures/cursor2
+Textures/3
+Textures/4
+Textures/5
+Textures/6
+Textures/7
+Textures/8
+Textures/9
+Textures/km_h
+Textures/left_line
+Textures/right_line
+Textures/rpm
+Textures/点
+Textures/Render Target Texture
+Textures/进度条_Fg
+Textures/Render Target Texture_1
+Textures/CarShadowGroundA
+Textures/360Car_Wheel
+Textures/360Car_Tire
+Textures/CarBodyShape
+Textures/left_dial
+Textures/mask_overlay
+Textures/background
+Textures/left_dial_background
+Textures/left_dial_overlay
+Textures/right_dial
+Textures/right_dial_background
+Textures/right_dial_overlay
+Textures/cursor
+Textures/cursor-blue
+Textures/1
+Textures/2
+Textures/coolant
+Textures/dial_fill_color_left
+Textures/dial_pattern
+Styles/Text Block 2D Style
+State Managers/SpeedValue State Manager
+State Managers/TachValue State Manager
+/gauge

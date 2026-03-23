@@ -1,0 +1,216 @@
+﻿Files:
+PropertyTypeLibrary/BaseInfo.Gear
+PropertyTypeLibrary/CubemapColor
+PropertyTypeLibrary/offset
+PropertyTypeLibrary/smoothing
+PropertyTypeLibrary/Texture2
+PropertyTypeLibrary/TextureCube
+PropertyTypeLibrary/TAG_PROPERTY_TYPE_Transparent
+Animation Clips/Animation Clip
+Screens/Screen/RootPage/Prefab View 2D
+Screens/Screen/RootPage/Basbinfo Simplicity
+Screens/Screen/<ResourceDictionaryInNode>
+Screens/Screen/RootPage
+Screens/Screen
+Material Types/VertexPhong
+Material Types/VertexPhongCube
+Material Types/VertexPhongMorph
+Material Types/VertexPhongSkinned
+Material Types/VertexPhongTextured
+Material Types/VertexPhongTexturedCube
+Material Types/VertexPhongTexturedMorph
+Material Types/VertexPhongTexturedSkinned
+Material Types/ColorTexture
+Material Types/DefaultBlit
+Material Types/FontDefault
+Material Types/MaskTexture
+Material Types/SweepTextures
+Material Types/Textured
+Materials/VertexPhongMaterial
+Materials/VertexPhongCubeMaterial
+Materials/VertexPhongMorphMaterial
+Materials/VertexPhongSkinnedMaterial
+Materials/VertexPhongTexturedMaterial
+Materials/VertexPhongTexturedCubeMaterial
+Materials/VertexPhongTexturedMorphMaterial
+Materials/VertexPhongTexturedSkinnedMaterial
+Materials/ColorTextureMaterial
+Materials/DefaultBlitMaterial
+Materials/FontDefaultMaterial
+Materials/MaskTextureMaterial
+Materials/SweepTexturesMaterial
+Materials/TexturedMaterial
+Brushes/DefaultBackground
+Brushes/Background Brush
+Brushes/Color Brush Gray
+Brushes/Color Brush Black
+Prefabs/Basbinfo Complex/Basbinfo Complex/Time/DriveMode/挡位背景
+Prefabs/Basbinfo Complex/Basbinfo Complex/Time/DriveMode/Mode
+Prefabs/Basbinfo Complex/Basbinfo Complex/Time/Systime
+Prefabs/Basbinfo Complex/Basbinfo Complex/Time/Temperature
+Prefabs/Basbinfo Complex/Basbinfo Complex/Time/DriveMode
+Prefabs/Basbinfo Complex/Basbinfo Complex/Empty Node 2D/ODO/label
+Prefabs/Basbinfo Complex/Basbinfo Complex/Empty Node 2D/ODO/value
+Prefabs/Basbinfo Complex/Basbinfo Complex/Empty Node 2D/ODO/unit
+Prefabs/Basbinfo Complex/Basbinfo Complex/Empty Node 2D/DTE/label
+Prefabs/Basbinfo Complex/Basbinfo Complex/Empty Node 2D/DTE/value
+Prefabs/Basbinfo Complex/Basbinfo Complex/Empty Node 2D/DTE/unit
+Prefabs/Basbinfo Complex/Basbinfo Complex/Empty Node 2D/Oil/icon
+Prefabs/Basbinfo Complex/Basbinfo Complex/Empty Node 2D/Oil/刻度
+Prefabs/Basbinfo Complex/Basbinfo Complex/Empty Node 2D/Oil/背景
+Prefabs/Basbinfo Complex/Basbinfo Complex/Empty Node 2D/Oil/进度
+Prefabs/Basbinfo Complex/Basbinfo Complex/Empty Node 2D/Oil/E
+Prefabs/Basbinfo Complex/Basbinfo Complex/Empty Node 2D/Oil/F
+Prefabs/Basbinfo Complex/Basbinfo Complex/Empty Node 2D/WaterTemp/icon
+Prefabs/Basbinfo Complex/Basbinfo Complex/Empty Node 2D/WaterTemp/刻度
+Prefabs/Basbinfo Complex/Basbinfo Complex/Empty Node 2D/WaterTemp/背景
+Prefabs/Basbinfo Complex/Basbinfo Complex/Empty Node 2D/WaterTemp/进度
+Prefabs/Basbinfo Complex/Basbinfo Complex/Empty Node 2D/WaterTemp/C
+Prefabs/Basbinfo Complex/Basbinfo Complex/Empty Node 2D/WaterTemp/H
+Prefabs/Basbinfo Complex/Basbinfo Complex/Empty Node 2D/ODO
+Prefabs/Basbinfo Complex/Basbinfo Complex/Empty Node 2D/DTE
+Prefabs/Basbinfo Complex/Basbinfo Complex/Empty Node 2D/Oil
+Prefabs/Basbinfo Complex/Basbinfo Complex/Empty Node 2D/WaterTemp
+Prefabs/Basbinfo Complex/Basbinfo Complex/Time
+Prefabs/Basbinfo Complex/Basbinfo Complex/Empty Node 2D
+Prefabs/Basbinfo Complex/Basbinfo Complex
+Prefabs/Prefab View 2D/Prefab View 2D
+Prefabs/Basbinfo Simplicity/Basbinfo Simplicity/Time/DriveMode/Mode
+Prefabs/Basbinfo Simplicity/Basbinfo Simplicity/Time/DriveMode
+Prefabs/Basbinfo Simplicity/Basbinfo Simplicity/Empty Node 2D/ODO/label
+Prefabs/Basbinfo Simplicity/Basbinfo Simplicity/Empty Node 2D/ODO/value
+Prefabs/Basbinfo Simplicity/Basbinfo Simplicity/Empty Node 2D/ODO/unit
+Prefabs/Basbinfo Simplicity/Basbinfo Simplicity/Empty Node 2D/DTE/label
+Prefabs/Basbinfo Simplicity/Basbinfo Simplicity/Empty Node 2D/DTE/value
+Prefabs/Basbinfo Simplicity/Basbinfo Simplicity/Empty Node 2D/DTE/unit
+Prefabs/Basbinfo Simplicity/Basbinfo Simplicity/Empty Node 2D/Oil/icon
+Prefabs/Basbinfo Simplicity/Basbinfo Simplicity/Empty Node 2D/Oil/刻度
+Prefabs/Basbinfo Simplicity/Basbinfo Simplicity/Empty Node 2D/Oil/背景
+Prefabs/Basbinfo Simplicity/Basbinfo Simplicity/Empty Node 2D/Oil/进度
+Prefabs/Basbinfo Simplicity/Basbinfo Simplicity/Empty Node 2D/Oil/E
+Prefabs/Basbinfo Simplicity/Basbinfo Simplicity/Empty Node 2D/Oil/F
+Prefabs/Basbinfo Simplicity/Basbinfo Simplicity/Empty Node 2D/WaterTemp/icon
+Prefabs/Basbinfo Simplicity/Basbinfo Simplicity/Empty Node 2D/WaterTemp/刻度
+Prefabs/Basbinfo Simplicity/Basbinfo Simplicity/Empty Node 2D/WaterTemp/背景
+Prefabs/Basbinfo Simplicity/Basbinfo Simplicity/Empty Node 2D/WaterTemp/进度
+Prefabs/Basbinfo Simplicity/Basbinfo Simplicity/Empty Node 2D/WaterTemp/C
+Prefabs/Basbinfo Simplicity/Basbinfo Simplicity/Empty Node 2D/WaterTemp/H
+Prefabs/Basbinfo Simplicity/Basbinfo Simplicity/Empty Node 2D/ODO
+Prefabs/Basbinfo Simplicity/Basbinfo Simplicity/Empty Node 2D/DTE
+Prefabs/Basbinfo Simplicity/Basbinfo Simplicity/Empty Node 2D/Oil
+Prefabs/Basbinfo Simplicity/Basbinfo Simplicity/Empty Node 2D/WaterTemp
+Prefabs/Basbinfo Simplicity/Basbinfo Simplicity/Time
+Prefabs/Basbinfo Simplicity/Basbinfo Simplicity/Empty Node 2D
+Prefabs/Basbinfo Simplicity/Basbinfo Simplicity
+Prefabs/Basbinfo Complex
+Prefabs/Prefab View 2D
+Prefabs/Basbinfo Simplicity
+Themes/Theme_BaseInfo/DefaultValues
+Themes/Theme_BaseInfo/Complex
+Themes/Theme_BaseInfo/Simplicity
+Themes/Theme_BaseInfo
+Page Transitions/Default Transitions
+Resource Files/Images/cubemaps/mipmaps/DefaultCubeMap.dds posX_128x128.png
+Resource Files/Images/cubemaps/mipmaps/DefaultCubeMap.dds posX_64x64.png
+Resource Files/Images/cubemaps/mipmaps/DefaultCubeMap.dds posX_32x32.png
+Resource Files/Images/cubemaps/mipmaps/DefaultCubeMap.dds posX_16x16.png
+Resource Files/Images/cubemaps/mipmaps/DefaultCubeMap.dds posX_8x8.png
+Resource Files/Images/cubemaps/mipmaps/DefaultCubeMap.dds posX_4x4.png
+Resource Files/Images/cubemaps/mipmaps/DefaultCubeMap.dds posX_2x2.png
+Resource Files/Images/cubemaps/mipmaps/DefaultCubeMap.dds posX_1x1.png
+Resource Files/Images/cubemaps/mipmaps/DefaultCubeMap.dds negX_128x128.png
+Resource Files/Images/cubemaps/mipmaps/DefaultCubeMap.dds negX_64x64.png
+Resource Files/Images/cubemaps/mipmaps/DefaultCubeMap.dds negX_32x32.png
+Resource Files/Images/cubemaps/mipmaps/DefaultCubeMap.dds negX_16x16.png
+Resource Files/Images/cubemaps/mipmaps/DefaultCubeMap.dds negX_8x8.png
+Resource Files/Images/cubemaps/mipmaps/DefaultCubeMap.dds negX_4x4.png
+Resource Files/Images/cubemaps/mipmaps/DefaultCubeMap.dds negX_2x2.png
+Resource Files/Images/cubemaps/mipmaps/DefaultCubeMap.dds negX_1x1.png
+Resource Files/Images/cubemaps/mipmaps/DefaultCubeMap.dds posY_128x128.png
+Resource Files/Images/cubemaps/mipmaps/DefaultCubeMap.dds posY_64x64.png
+Resource Files/Images/cubemaps/mipmaps/DefaultCubeMap.dds posY_32x32.png
+Resource Files/Images/cubemaps/mipmaps/DefaultCubeMap.dds posY_16x16.png
+Resource Files/Images/cubemaps/mipmaps/DefaultCubeMap.dds posY_8x8.png
+Resource Files/Images/cubemaps/mipmaps/DefaultCubeMap.dds posY_4x4.png
+Resource Files/Images/cubemaps/mipmaps/DefaultCubeMap.dds posY_2x2.png
+Resource Files/Images/cubemaps/mipmaps/DefaultCubeMap.dds posY_1x1.png
+Resource Files/Images/cubemaps/mipmaps/DefaultCubeMap.dds negY_128x128.png
+Resource Files/Images/cubemaps/mipmaps/DefaultCubeMap.dds negY_64x64.png
+Resource Files/Images/cubemaps/mipmaps/DefaultCubeMap.dds negY_32x32.png
+Resource Files/Images/cubemaps/mipmaps/DefaultCubeMap.dds negY_16x16.png
+Resource Files/Images/cubemaps/mipmaps/DefaultCubeMap.dds negY_8x8.png
+Resource Files/Images/cubemaps/mipmaps/DefaultCubeMap.dds negY_4x4.png
+Resource Files/Images/cubemaps/mipmaps/DefaultCubeMap.dds negY_2x2.png
+Resource Files/Images/cubemaps/mipmaps/DefaultCubeMap.dds negY_1x1.png
+Resource Files/Images/cubemaps/mipmaps/DefaultCubeMap.dds posZ_128x128.png
+Resource Files/Images/cubemaps/mipmaps/DefaultCubeMap.dds posZ_64x64.png
+Resource Files/Images/cubemaps/mipmaps/DefaultCubeMap.dds posZ_32x32.png
+Resource Files/Images/cubemaps/mipmaps/DefaultCubeMap.dds posZ_16x16.png
+Resource Files/Images/cubemaps/mipmaps/DefaultCubeMap.dds posZ_8x8.png
+Resource Files/Images/cubemaps/mipmaps/DefaultCubeMap.dds posZ_4x4.png
+Resource Files/Images/cubemaps/mipmaps/DefaultCubeMap.dds posZ_2x2.png
+Resource Files/Images/cubemaps/mipmaps/DefaultCubeMap.dds posZ_1x1.png
+Resource Files/Images/cubemaps/mipmaps/DefaultCubeMap.dds negZ_128x128.png
+Resource Files/Images/cubemaps/mipmaps/DefaultCubeMap.dds negZ_64x64.png
+Resource Files/Images/cubemaps/mipmaps/DefaultCubeMap.dds negZ_32x32.png
+Resource Files/Images/cubemaps/mipmaps/DefaultCubeMap.dds negZ_16x16.png
+Resource Files/Images/cubemaps/mipmaps/DefaultCubeMap.dds negZ_8x8.png
+Resource Files/Images/cubemaps/mipmaps/DefaultCubeMap.dds negZ_4x4.png
+Resource Files/Images/cubemaps/mipmaps/DefaultCubeMap.dds negZ_2x2.png
+Resource Files/Images/cubemaps/mipmaps/DefaultCubeMap.dds negZ_1x1.png
+Resource Files/Images/cubemaps/DefaultCubeMap.dds posX.png
+Resource Files/Images/cubemaps/DefaultCubeMap.dds negX.png
+Resource Files/Images/cubemaps/DefaultCubeMap.dds posY.png
+Resource Files/Images/cubemaps/DefaultCubeMap.dds negY.png
+Resource Files/Images/cubemaps/DefaultCubeMap.dds posZ.png
+Resource Files/Images/cubemaps/DefaultCubeMap.dds negZ.png
+Resource Files/Images/mipmaps/DefaultTextureImage_512x512.png
+Resource Files/Images/mipmaps/DefaultTextureImage_256x256.png
+Resource Files/Images/mipmaps/DefaultTextureImage_128x128.png
+Resource Files/Images/mipmaps/DefaultTextureImage_64x64.png
+Resource Files/Images/mipmaps/DefaultTextureImage_32x32.png
+Resource Files/Images/mipmaps/DefaultTextureImage_16x16.png
+Resource Files/Images/mipmaps/DefaultTextureImage_8x8.png
+Resource Files/Images/mipmaps/DefaultTextureImage_4x4.png
+Resource Files/Images/mipmaps/DefaultTextureImage_2x2.png
+Resource Files/Images/mipmaps/DefaultTextureImage_1x1.png
+Resource Files/Images/DefaultBackground.png
+Resource Files/Images/DefaultTextureImage.png
+Resource Files/Images/backgrand.png
+Resource Files/Images/gear_0.png
+Resource Files/Images/gear_1.png
+Resource Files/Images/gear_2.png
+Resource Files/Images/gear_3.png
+Resource Files/Images/gear_4.png
+Resource Files/Images/icon_oil.png
+Resource Files/Images/icon_water.png
+Resource Files/Images/档位背景.png
+Resource Files/Images/刻度.png
+Resource Files/Images/水温油表背景.png
+Resource Files/Images/水温油表进度.png
+Resource Files/Images/天际线.png
+Resource Files/Images/mask_overlay.png
+Resource Files/Images/水温油表进度_2.png
+Resource Files/Fonts/SourceHanSansCN-Normal.otf
+Textures/DefaultBackground
+Textures/Default Texture
+Textures/Default Cube Map Texture
+Textures/backgrand
+Textures/gear_0
+Textures/gear_1
+Textures/gear_2
+Textures/gear_3
+Textures/gear_4
+Textures/icon_oil
+Textures/icon_water
+Textures/档位背景
+Textures/刻度
+Textures/水温油表背景
+Textures/水温油表进度
+Textures/天际线
+Textures/mask_overlay
+Textures/水温油表进度_2
+Styles/Text Block 2D Style
+Styles/progress color
+State Managers/Mode State Manager
+/baseinfo

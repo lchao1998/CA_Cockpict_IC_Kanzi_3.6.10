@@ -1,0 +1,44 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kanzi Studio\n"
+"POT-Creation-Date: 10/14/2022 11:43:03\n"
+"POT-Revision-Date: 10/14/2022 11:43:03\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Kanzi Studio\n"
+"X-Poedit-Basepath: ."
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en\n"
+"X-Poedit-KeywordsList: \n"
+
+msgctxt "障碍物距离小于180米！"
+msgid "障碍物距离小于180米！"
+msgstr "Obstacles is less than 180m!"
+
+msgctxt "安全气囊故障！"
+msgid "安全气囊故障！"
+msgstr "Airbag failure!"
+
+msgctxt "主驾安全带未系！"
+msgid "主驾安全带未系！"
+msgstr "Main seat belt not on!"
+
+msgctxt "发动机故障，请维修！"
+msgid "发动机故障，请维修！"
+msgstr "Engine failure, Please repair!"
+
+msgctxt "副驾安全带未系！"
+msgid "副驾安全带未系！"
+msgstr "Passenger seat belt not on!"
+
+msgctxt "障碍物距离小于50米！"
+msgid "障碍物距离小于50米！"
+msgstr "Obstacles is less than 50m!"
+
+msgctxt "障碍物距离小于80米！"
+msgid "障碍物距离小于80米！"
+msgstr "Obstacles is less than 80m!"
+

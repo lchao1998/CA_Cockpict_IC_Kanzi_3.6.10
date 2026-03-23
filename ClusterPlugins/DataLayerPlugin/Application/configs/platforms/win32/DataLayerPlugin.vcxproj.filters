@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="..\..\..\src\plugin\src\Model\DataLayerCache.cpp">
+      <Filter>Model</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\src\plugin\src\Model\DataLayerModel.cpp">
+      <Filter>Model</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\src\plugin\src\Model\DataLayerModelDefine.cpp">
+      <Filter>Model</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\src\plugin\src\SharedMemory\sm_adas.cpp">
+      <Filter>SharedMemory</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\src\plugin\src\SharedMemory\sm_common.cpp">
+      <Filter>SharedMemory</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\src\plugin\src\SharedMemory\sm_gauge.cpp">
+      <Filter>SharedMemory</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\src\plugin\src\SharedMemory\sm_interaction_status.cpp">
+      <Filter>SharedMemory</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\src\plugin\src\SharedMemory\sm_telltale.cpp">
+      <Filter>SharedMemory</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\src\plugin\src\SharedMemory\sm_tripcomputer.cpp">
+      <Filter>SharedMemory</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\src\plugin\src\SharedMemory\sm_warning.cpp">
+      <Filter>SharedMemory</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\src\plugin\src\Simulate\SimulateData.cpp">
+      <Filter>Simulate</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\src\plugin\src\datalayerplugin.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\src\plugin\src\datalayerplugin_module.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\..\src\plugin\src\resource.h" />
+    <ClInclude Include="..\..\..\src\plugin\src\Common\CommonDefine.hpp">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\src\plugin\src\Model\DataLayerCache.hpp">
+      <Filter>Model</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\src\plugin\src\Model\DataLayerModel.hpp">
+      <Filter>Model</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\src\plugin\src\Model\DataLayerModelDefine.hpp">
+      <Filter>Model</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\src\plugin\src\SharedMemory\sharedmemory.hpp">
+      <Filter>SharedMemory</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\src\plugin\src\SharedMemory\sm_adas.hpp">
+      <Filter>SharedMemory</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\src\plugin\src\SharedMemory\sm_common.hpp">
+      <Filter>SharedMemory</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\src\plugin\src\SharedMemory\sm_gauge.hpp">
+      <Filter>SharedMemory</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\src\plugin\src\SharedMemory\sm_interaction_status.hpp">
+      <Filter>SharedMemory</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\src\plugin\src\SharedMemory\sm_struct_define.h">
+      <Filter>SharedMemory</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\src\plugin\src\SharedMemory\sm_telltale.hpp">
+      <Filter>SharedMemory</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\src\plugin\src\SharedMemory\sm_tripcomputer.hpp">
+      <Filter>SharedMemory</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\src\plugin\src\SharedMemory\sm_warning.hpp">
+      <Filter>SharedMemory</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\src\plugin\src\Simulate\SimulateData.hpp">
+      <Filter>Simulate</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\src\plugin\src\datalayerplugin.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\src\plugin\src\datalayerplugin_module.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Model">
+      <UniqueIdentifier>{e888de36-5626-442a-8e88-97871b01cb9e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="SharedMemory">
+      <UniqueIdentifier>{a9d0de78-46f0-4d11-8329-6c177d00a903}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Simulate">
+      <UniqueIdentifier>{fa6a7bb1-c18a-4093-9a04-6735f4012f42}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{64cceade-03b6-41a8-9e10-7cd1e3884c54}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{a4d0eccd-fa40-4b18-bb96-8817b447680a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Common">
+      <UniqueIdentifier>{a691f303-c0bc-40a5-a43b-8c101cdca97e}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="..\..\..\src\plugin\src\datalayerplugin.rc">
+      <Filter>Source Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>
